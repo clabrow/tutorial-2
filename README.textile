@@ -1,0 +1,1 @@
+Slightly more advanced: scrape data from raw HTML, and save it to the ScraperWiki datastore. 
